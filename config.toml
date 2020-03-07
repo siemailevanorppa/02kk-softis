@@ -1,4 +1,4 @@
-baseURL = "http://kk-software.fi"
+baseURL = "https://www.kk-software.fi/"
 languageCode = "fi"
 title = "kk-software"
 theme = "ananke"
